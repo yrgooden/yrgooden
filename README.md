@@ -1,6 +1,6 @@
 <h1>Hi, I'm Yulonda! <br/><a href="https://github.com/yrgooden"></a> <a href="https://www.linkedin.com/in/yulonda-gooden/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>💻 Cybersecurity Projects:</h2>
 
 - <b>SOC Home Lab Envirnment</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -18,7 +18,7 @@
 - <b>Active Directory Home Lab</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>Certifications</h2>
+<h2>📜 Certifications</h2>
 
 - <b>Coursera</b>
   - [Google Cybersecurity - Google](https://coursera.org/verify/professional-cert/JE06BT4NBFBE)
@@ -44,7 +44,7 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🌐 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="YulondaGooden | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
